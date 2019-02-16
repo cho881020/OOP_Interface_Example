@@ -2,14 +2,14 @@ package code;
 
 public class EditText {
 	
-	private String test;
+	private String text;
 
-	public String getTest() {
-		return test;
+	public String getText() {
+		return text;
 	}
 
-	public void setTest(String test) {
-		this.test = test;
+	public void setTest(String text) {
+		this.text = text;
 	}
 	
 	
