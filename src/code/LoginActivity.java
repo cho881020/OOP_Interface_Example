@@ -8,5 +8,10 @@ public class LoginActivity {
 		Button button1 = new Button();
 		
 		button1.click();
+		
+		EditText idEdt = new EditText();
+		
+//		idEdt에 shairyu이라는 값을 입력.
+		idEdt.setText("shairyu");
 	}
 }
