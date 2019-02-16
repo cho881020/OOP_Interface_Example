@@ -18,7 +18,7 @@ public class LoginActivity implements ButtonClickListener {
 		idEdt = new EditText();
 		
 //		idEdt에 6muse이라는 값을 입력
-		idEdt.setTest("6muse");
+		idEdt.setText("6muse");
 		
 		button1.setButtonClickListener(this);
 		

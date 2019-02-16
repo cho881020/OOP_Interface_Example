@@ -8,7 +8,7 @@ public class EditText {
 		return text;
 	}
 
-	public void setTest(String text) {
+	public void setText(String text) {
 		this.text = text;
 	}
 	
