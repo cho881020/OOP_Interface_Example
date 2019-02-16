@@ -10,5 +10,12 @@ public class LoginActivity {
 		
 		button1.click();
 		
+//		id를 입력받는 EditText 객체화
+		
+		EditText idEdt = new EditText();
+		
+//		idEdt에 cho881020이라는 값을 입력.
+		idEdt.setText("cho881020");
+		
 	}
 }
