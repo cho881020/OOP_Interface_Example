@@ -11,6 +11,12 @@ public class LoginActivity {
 		
 		button1.click();
 		
+		
+		
+		EditText idEdt = new EditText();
+		
+		idEdt.setText("ksi")
+		
 	}
 
 }
